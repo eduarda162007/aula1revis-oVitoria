@@ -3,11 +3,13 @@ body{
     text-align: center;
     margin: 0%;
     padding: 0%;
-    H1{color: rgb(0, 0, 0);
+    H1{color: rgb(3, 3, 3);
     font-size: 2cm;}
     p{
-        color: rgb(1, 14, 26);
-        font-size: 1cm;
+        color: rgb(0, 0, 0);
+        font-size: 2em;
+        margin: 20px;
+        padding: 020px;
     }
 
 }
